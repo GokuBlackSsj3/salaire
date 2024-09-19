@@ -10,6 +10,8 @@ public class App {
         System.out.println("Enter votre salaire horaire: ");
         int salaireHoraire = clavier.nextInt();
 
+        // modif
+
         System.out.println("Enter vos heures travaillées: ");
         int nbHeuresTravaillees = clavier.nextInt();
 
